@@ -1,3 +1,7 @@
-1. Card and CardImpl initialize the card object.
+1. Card and CardImpl initialize the card object, and other methods.
 
-2. 
+2. PokerHand and PokerHandImple initilize the hand object (a hand of 5 cards), and other methods.
+
+3. Deck and DeckImpl intilize the the deck object (52 cards), and other method.
+
+4. HandEvaluator calculate a hand's winning percentage against other players.
