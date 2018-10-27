@@ -13,4 +13,4 @@ Pixels and pictures, with different kinds of pictures and paint methods.
 Junit test for a3
 
 ## A5
-New implementations of pixels and pictures, including rebuilding to data in a cleaner pattern. 
+New implementations of pixels and pictures, including rebuilding the programs in a cleaner framework. 
